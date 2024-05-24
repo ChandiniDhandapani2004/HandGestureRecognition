@@ -1,0 +1,1 @@
+This project is used to identify the numbers based on hand gestures.Here we have given input images of hand gestures representing the images of 1,2,3,4,5, and none i.e 0.Our AI model uses CNN to classify these images and produces the corresponding output
